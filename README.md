@@ -1,6 +1,6 @@
-# FOREX RATES API
-
-## MobiRates - MobiCard Global Currency Exchange (Java)
+# Forex Rates API
+## MobiRates – Global Currency Exchange
+### Java
 
 Access real-time foreign exchange rates with MobiCard's Forex Rates API. Get accurate currency conversion data for 160+ currencies worldwide, updated in real-time for financial applications, e-commerce platforms, and payment systems.
 
