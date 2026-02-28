@@ -10,7 +10,7 @@ Retrieve comprehensive forex rate data including base currency rates, historical
 
 Retrieve real-time foreign exchange rates for global currencies. The API returns exchange rate data for a specified base currency against all supported currencies or a single target currency.
 
-###Forex Rates Implementation
+### Forex Rates Implementation
 
 Generate a signed JWT token with embedded request.
 
